@@ -1,0 +1,61 @@
+// Add your channel ID filters below
+
+// Blocked by context menu (India Today) (10/22/2024, 7:56:32 PM)
+UCYPvAwZP8pZhSMW8qs7cVCw
+
+// Blocked by context menu (WION) (10/22/2024, 7:56:53 PM)
+UC_gUM8rL-Lrg6O3adPW9K1g
+
+// Blocked by context menu (Firstpost) (10/22/2024, 7:57:27 PM)
+UCz8QaiQxApLq8sLNcszYyJw
+
+// Blocked by context menu (CRUX) (10/22/2024, 7:58:00 PM)
+UC3prwMn9aU2z5Y158ZdGyyA
+
+// Blocked by context menu (DB Live) (10/22/2024, 7:58:27 PM)
+UCBbpLKJLhIbDd_wX4ubU_Cw
+
+// Blocked by context menu (Republic Bangla) (10/22/2024, 7:58:35 PM)
+UCajVjEHDoVn_AHsunUZz_EQ
+
+// Blocked by context menu (ABP NEWS) (10/22/2024, 7:59:13 PM)
+UCRWFSbif-RFENbBrSiez1DA
+
+// Blocked by context menu (News18 India) (10/22/2024, 7:59:15 PM)
+UCPP3etACgdUWvizcES1dJ8Q
+
+// Blocked by context menu (IndiaTV) (10/22/2024, 7:59:19 PM)
+UCttspZesZIDEwwpVIgoZtWQ
+
+// Blocked by context menu (Zee News) (10/22/2024, 7:59:21 PM)
+UCIvaYmXn910QMdemBG3v1pQ
+
+// Blocked by context menu (Republic Bharat) (10/22/2024, 7:59:24 PM)
+UC7wXt18f2iA3EDXeqAVuKng
+
+// Blocked by context menu (Aaj Tak) (10/22/2024, 7:59:27 PM)
+UCt4t-jeY85JegMlZ-E5UWtA
+
+// Blocked by context menu (ET Now Swadesh) (10/22/2024, 8:00:17 PM)
+UCD3CdwT8lTCe5ZGHbUBxmWA
+
+// Blocked by context menu (CNN-News18) (10/22/2024, 8:05:23 PM)
+UCef1-8eOpJgud7szVPlZQAQ
+
+// Blocked by context menu (NDTV) (10/22/2024, 8:05:27 PM)
+UCZFMm1mMw0F81Z37aaEzTUA
+
+// Blocked by context menu (The Indian Express) (10/22/2024, 8:05:31 PM)
+UCJEDFSxHHOW1PpBccdSxOTA
+
+// Blocked by context menu (Republic World) (10/22/2024, 8:05:35 PM)
+UCwqusr8YDwM-3mEYTDeJHzw
+
+// Blocked by context menu (Hindustan Times) (10/22/2024, 8:08:15 PM)
+UCm7lHFkt2yB_WzL67aruVBQ
+
+// Blocked by context menu (Times Of India) (10/22/2024, 8:16:22 PM)
+UCckHqySbfy5FcPP6MD_S-Yg
+
+// Blocked by context menu (DNAIndiaNews) (10/22/2024, 8:19:22 PM)
+UCIRAYFbJmrP--jyrC9MAIWQ
