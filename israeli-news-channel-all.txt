@@ -1,0 +1,7 @@
+// Add your channel ID filters below
+
+// Blocked by context menu (TBN Israel) (6/22/2025, 12:41:05 PM)
+UC73H5p3GP8b5N1f3hozIXyQ
+
+// Blocked by context menu (ILTV Israel News) (6/22/2025, 12:41:10 PM)
+UCuxgEyMeaks7HS5gAw6Tt7w
