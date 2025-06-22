@@ -1,5 +1,6 @@
 // Add your channel ID filters below
 
+
 // Blocked by context menu (KING 5 Seattle) (6/22/2025, 12:09:10 PM)
 UCp1KrVaZDZ7BOI_QBuTWWmg
 
@@ -68,3 +69,18 @@ UC2x_qNZXKDxNP1j4jvHATRQ
 
 // Blocked by context menu (FOX 29 Philadelphia) (6/22/2025, 12:12:45 PM)
 UCqdOvfSmM2NKRNE0FSbATuw
+
+// Blocked by context menu (Times Radio) (6/22/2025, 12:15:08 PM)
+UCTjDhFuGXlhx9Us0gq0VK2w
+
+// Blocked by context menu (C-SPAN) (6/22/2025, 12:15:40 PM)
+UCb--64Gl51jIEVE-GLDAVTg
+
+// Blocked by context menu (FOX 11 Los Angeles) (6/22/2025, 12:19:18 PM)
+UCHfF8wFnipMeDpJf8OmMxDg
+
+// Blocked by context menu (Fox News Clips) (6/22/2025, 12:19:46 PM)
+UCqlYzSgsh5jdtWYfVIBoTDw
+
+// Blocked by context menu (FOX 5 Washington DC) (6/22/2025, 12:19:55 PM)
+UCHLyP4MuA-JAFBCwxXOEDdA
