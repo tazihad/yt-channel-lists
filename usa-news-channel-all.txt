@@ -1,1 +1,70 @@
+// Add your channel ID filters below
 
+// Blocked by context menu (KING 5 Seattle) (6/22/2025, 12:09:10 PM)
+UCp1KrVaZDZ7BOI_QBuTWWmg
+
+// Blocked by context menu (LiveNOW from FOX) (6/22/2025, 12:09:17 PM)
+UCJg9wBPyKMNA5sRDnvzmkdg
+
+// Blocked by context menu (ABC News) (6/22/2025, 12:09:19 PM)
+UCBi2mrWuNuyYy4gbM6fU18Q
+
+// Blocked by context menu (Fox News) (6/22/2025, 12:09:34 PM)
+UCXIJgqnII2ZOINSWNOGFThA
+
+// Blocked by context menu (NBC News) (6/22/2025, 12:09:36 PM)
+UCeY0bbntWzzVIaj2z3QigXg
+
+// Blocked by context menu (CNBC Television) (6/22/2025, 12:09:42 PM)
+UCrp_UI8XtuYfpiqluWLD7Lw
+
+// Blocked by context menu (NBC News) (6/22/2025, 12:09:47 PM)
+UCeY0bbntWzzVIaj2z3QigXg
+
+// Blocked by context menu (MSNBC) (6/22/2025, 12:10:03 PM)
+UCaXkIU1QidjPwiAYu6GcHjg
+
+// Blocked by context menu (NewsNation) (6/22/2025, 12:10:06 PM)
+UCCjG8NtOig0USdrT5D1FpxQ
+
+// Blocked by context menu (CNN) (6/22/2025, 12:10:09 PM)
+UCupvZG-5ko_eiXAupbDfxWw
+
+// Blocked by context menu (The Hill) (6/22/2025, 12:10:12 PM)
+UCPWXiRWZ29zrxPFIQT7eHSA
+
+// Blocked by context menu (FOX 26 Houston) (6/22/2025, 12:10:19 PM)
+UC4OqEJz6oABzz_7nu29zF3A
+
+// Blocked by context menu (PBS NewsHour) (6/22/2025, 12:10:22 PM)
+UC6ZFN9Tx6xh-skXCuRHCDpQ
+
+// Blocked by context menu (The Wall Street Journal) (6/22/2025, 12:10:25 PM)
+UCK7tptUDHh-RYDsdxO1-5QQ
+
+// Blocked by context menu (FOX 4 Dallas-Fort Worth) (6/22/2025, 12:10:28 PM)
+UCruQg25yVBppUWjza8AlyZA
+
+// Blocked by context menu (CBC News) (6/22/2025, 12:10:32 PM)
+UCuFFtHWoLl5fauMMD5Ww2jA
+
+// Blocked by context menu (USA TODAY) (6/22/2025, 12:11:33 PM)
+UCP6HGa63sBC7-KHtkme-p-g
+
+// Blocked by context menu (FOX 2 Detroit) (6/22/2025, 12:11:41 PM)
+UCOGa-48fFt4cW0UnW5WSdRg
+
+// Blocked by context menu (FOX 7 Austin) (6/22/2025, 12:12:08 PM)
+UC5maSolHQX9er0BOxrzjMwA
+
+// Blocked by context menu (CBN News) (6/22/2025, 12:12:23 PM)
+UCYI_ychRnL7sJrG6PUSBpQA
+
+// Blocked by context menu (NBC 7 San Diego) (6/22/2025, 12:12:27 PM)
+UCUPU09hfdemclhLeO_ecgnA
+
+// Blocked by context menu (Face the Nation) (6/22/2025, 12:12:35 PM)
+UC2x_qNZXKDxNP1j4jvHATRQ
+
+// Blocked by context menu (FOX 29 Philadelphia) (6/22/2025, 12:12:45 PM)
+UCqdOvfSmM2NKRNE0FSbATuw
