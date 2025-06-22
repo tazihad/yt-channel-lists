@@ -1,4 +1,4 @@
-
+// Add your channel ID filters below
 
 // Blocked by context menu (Sky News) (6/22/2025, 12:38:16 PM)
 UCoMdktPbSTixAyNGwb-UYkQ
@@ -17,3 +17,6 @@ UCIRYBXDze5krPDzAEOxFGVA
 
 // Blocked by context menu (BBC News) (6/22/2025, 12:39:42 PM)
 UC16niRr50-MSBwiO3YDb3RA
+
+// Blocked by context menu (The Sun) (6/22/2025, 12:40:08 PM)
+UCIzXayRP7-P0ANpq-nD-h5g
